@@ -2,7 +2,8 @@
 
 # Lab | Customer Analysis Final Round
 
-For this lab, we still keep using the `marketing_customer_analysis.csv` file that you can find in the `files_for_lab` folder.
+For this lab, we still keep using the file that you downloaded from the original link.
+The purpose now is to present a clean version of the entire process.  You should have a notebook that runs from beginning to end with no errors in the correct order.  The notebook should contain comments, decisions, and headings which clearly show the process from start to finish.
 
 It's time to put it all together. Remember the previous rounds and follow the steps as shown in previous lectures.
 
